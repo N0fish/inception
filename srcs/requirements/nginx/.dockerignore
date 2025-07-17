@@ -1,0 +1,9 @@
+.git
+.env
+
+*.crt
+*.key
+
+*.swp
+*.bak
+*~
